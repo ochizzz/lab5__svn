@@ -86,7 +86,6 @@ Partial Class Form1
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(132, 22)
         Me.TextBox1.TabIndex = 1
-        Me.TextBox1.Text = "2"
         '
         'TextBox2
         '
